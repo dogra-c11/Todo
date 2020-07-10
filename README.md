@@ -1,3 +1,11 @@
+## A todo list created using reactjs
+
+## user can perform CRUD operations
+
+## filter todos
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
